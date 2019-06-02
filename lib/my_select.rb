@@ -1,6 +1,5 @@
 def my_select(collection)
-  x = 0 
-  collection.select do |num|
+  collection.select {|num|
    
 end
 end
